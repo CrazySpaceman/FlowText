@@ -5,7 +5,12 @@
   "authors": [
     "Libeo"
   ],
-  "ignore": [],
+  "ignore": [
+    "LICENSE",
+    "README.md",
+    "bower.json",
+    "demo.gif"
+  ],
   "license": "MIT",
   "private": false
 }
