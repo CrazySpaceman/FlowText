@@ -1,0 +1,11 @@
+{
+  "name": "flowtext",
+  "main": "flowtext.jquery.js",
+  "version": "1.0.0",
+  "authors": [
+    "Libeo"
+  ],
+  "ignore": [],
+  "license": "MIT",
+  "private": false
+}
