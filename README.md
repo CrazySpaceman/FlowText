@@ -3,10 +3,6 @@ FlowText
 
 jQuery plugin for responsive font-size
 
-## Demo
-
-![FlowText Demo](/demo.gif?raw=true)
-
 ## Usage
 
 Sample usage with default parameters:
@@ -25,6 +21,10 @@ $('.element').flowtext({
     maxScreenWidth: 1280
 });
 ```
+
+## Demo
+
+![FlowText Demo](/demo.gif?raw=true)
 
 ## Parameters
 
