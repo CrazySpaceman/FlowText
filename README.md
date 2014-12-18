@@ -22,6 +22,12 @@ $('.element').flowtext({
 });
 ```
 
+## Installation
+
+* [Download the latest release](https://github.com/libeo/FlowText/releases/latest)
+* Clone the repo: `git clone https://github.com/libeo/FlowText.git`
+* Install with Bower: `bower install flowtext`
+
 ## Demo
 
 ![FlowText Demo](/demo.gif?raw=true)
